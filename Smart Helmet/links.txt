@@ -1,0 +1,5 @@
+https://www.hackster.io/Froz3nArcher/smart-blinds-573548 ----- smart blinds
+https://www.instructables.com/Automated-Solar-Powered-Horizontal-Blinds/ -------blinds
+https://www.hackster.io/123samridhgarg/arduino-solar-tracker-servo-controlled-light-tracking-6a7bb9
+https://www.hackster.io/mangia/servo-controlled-light-tracking-solar-panel-platform-d29fdc
+https://www.makeuseof.com/create-automatic-solar-street-light/ -----battery
